@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Doa Doa Ramadhan"
+theme = "theme-minos"
